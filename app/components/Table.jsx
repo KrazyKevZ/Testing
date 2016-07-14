@@ -3,7 +3,7 @@ var React = require('react');
 var Table = React.createClass({
   render: function() {
     return (
-      <table className="stack">
+      <table className="stack hover">
         <thead className="table-header">
           <tr>
             <th width={200}>LID PkUp Date</th>

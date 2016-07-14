@@ -6,9 +6,9 @@ var Main = (props) => {
   return (
     <div>
       <Nav/>
-      <Searchbar/>
         <div>
           <div>
+            <Searchbar/>
             {props.children}
           </div>
         </div>
