@@ -20,8 +20,8 @@ var Table = React.createClass({
             <th width={150}>Driver</th>
           </tr>
         </thead>
-        <tbody>
-          <tr><td>New Load</td></tr>
+        <tbody className="tbody">
+          <tr><td colSpan="2" className="hed"><h3>NEW LOAD</h3></td></tr>
           <tr>
             <td>193</td>
             <td>12:00:00</td>
@@ -65,7 +65,7 @@ var Table = React.createClass({
             <td>New Copy</td>
             <td>New Copy</td>
           </tr>
-          <tr><td>Dispatched Loads</td></tr>
+          <tr><td colSpan="2" className="hed"><h3>DISPATCHED LOADS</h3></td></tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>

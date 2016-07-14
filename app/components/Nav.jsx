@@ -29,7 +29,7 @@ var Nav = React.createClass({
               </ul>
           </li>
           <li>
-            <Link to="/iG" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>IG</Link>
+             <Link to="/iG" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>IG</Link>
           </li>
           <li>
             <Link to="/lC" activeClassName="active-link" activeStyle={{fontWeight: 'bold'}}>LC</Link>

@@ -7,3 +7,32 @@
     padding: 4px 14px;
     position: relative;
 }
+
+table thead th, table thead td, table tfoot th, table tfoot td {
+    padding: 0.5rem 0.625rem 0.625rem;
+    font-weight: bold;
+    text-align: -webkit-center;
+}
+
+html {
+    font-size: 14px;
+    box-sizing: border-box;
+    text-align: -webkit-center;
+}
+
+.hed {
+    color: Blue;
+    font: bold 12px Helvetica Neue, HelveticaNeue, Helvetica-Neue, Helvetica, BBAlpha Sans, sans-serif;
+    text-align: left;
+}
+h3 {
+   font-size: 16px;
+   font-weight: bold;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    text-align: -webkit-center;
+
+}
