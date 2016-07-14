@@ -1,0 +1,18 @@
+.menu {
+align-content: space-around;
+width: 100%;
+}
+
+.top-bar-left {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.button, input {
+  padding-left: 15px;
+}
+
+.menu > li {
+    display: table-cell;
+}

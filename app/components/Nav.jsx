@@ -36,9 +36,9 @@ var Nav = React.createClass({
           </li>
         </ul>
       </div>
+      <div className="menu-text-title">DISPATCHER</div>
       <div className="top-bar-right">
           <ul className="menu">
-            <li className= "menu-text">DISPATCHER</li>
             <li className= "menu-text">Dummy Text</li>
           </ul>
     </div>

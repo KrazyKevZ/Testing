@@ -7,6 +7,12 @@
   padding: 8px;
 }
 
+// .top-bar-title {
+//     float: none;
+//     margin-right: 1rem;
+// }
+
+
 .topbar, a {
   color: #eee9d5;
   background: #a85905;
@@ -14,9 +20,18 @@
   padding: 8px;
 }
 .menu-text{
+  display: inline;
   color: #eee9d5;
   background:#a85905;
   font: bold 16px Helvetica Neue, HelveticaNeue, Helvetica-Neue, Helvetica, BBAlpha Sans, sans-serif;
+}
+.menu-text-title {
+  display: inline;
+  color: #eee9d5;
+  background:#a85905;
+  font: bold 16px Helvetica Neue, HelveticaNeue, Helvetica-Neue, Helvetica, BBAlpha Sans, sans-serif;
+  float: none;
+  padding-top: 10px;
 }
 
 // .button {
