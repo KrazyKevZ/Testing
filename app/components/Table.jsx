@@ -25,28 +25,28 @@ var Table = React.createClass({
           <tr>
             <td>193</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>UT</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>95632</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
             </tr>
           <tr>
             <td>180</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>UT</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93256</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
 
@@ -54,14 +54,14 @@ var Table = React.createClass({
           <tr>
             <td>169</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>97643</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td>New Copy</td>
           </tr>
@@ -69,98 +69,98 @@ var Table = React.createClass({
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
           <tr>
             <td>192</td>
             <td>12:00:00</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>WA</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>0</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>CA</td>
             <td>93292</td>
-            <td>Content Goes Here</td>
+            <td>Content</td>
             <td>New Copy</td>
             <td></td>
           </tr>
