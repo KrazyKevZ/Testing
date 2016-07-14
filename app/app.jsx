@@ -4,6 +4,7 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var Main = require('Main');
 var lC = require('lC');
 var iG = require('iG');
+var Table = require('Table');
 
 //load foundation
 $(document).foundation();
@@ -16,6 +17,7 @@ ReactDOM.render(
     <Route path= "/" component= {Main}>
       <Route path="IG" component= {iG}/>
       <Route path="LC" component= {lC}/>
+        <IndexRoute component={Table}/>
     </Route>
   </Router>,
   document.getElementById('app')
